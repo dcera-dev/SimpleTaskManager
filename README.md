@@ -12,7 +12,7 @@ Simple Task Manager can also be run locally via npm. Installation instructions a
 - run npm start to run the program, it should open in a web browser
 
 ## Upcoming Features
-- **Memory:** While this would require migration from GitHub pages, I would like to add memory to the application so that is can be used to store to-do lists between sessions.
+- **Memory:** While this would require migration from GitHub pages, I would like to add memory to the application so that it can be used to store to-do lists between sessions.
 
 <br /><br />
 
