@@ -1,8 +1,8 @@
 {
-  "name": "dancer6108-project-app",
+  "name": "simple-task-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dancer6108.github.io/CIS453L-Project",
+  "homepage": "https://dcera-dev.github.io/SimpleTaskManager",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
