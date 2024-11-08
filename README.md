@@ -2,7 +2,7 @@
 Simple Task Manager is a React based web application that holds a todo list for a user. It features creation, editing, and deletion of tasks, as well as tracks which tracks are completed and the total number of tasks completed.
 
 ## Access
-Simple Task Manager is accessible on GitHub Pages, located here: <link>
+Simple Task Manager is accessible on GitHub Pages, located here: https://dcera-dev.github.io/SimpleTaskManager/
 
 ## Installation
 Simple Task Manager can also be run locally via npm. Installation instructions are simple:
@@ -60,8 +60,8 @@ Simple Task Manager can also be run locally via npm. Installation instructions a
 
 ## Link to Project:
 GitHub Repository
-[Simple Task Manager] ()
+[Simple Task Manager] (https://github.com/dcera-dev/SimpleTaskManager)
 <br />
 <br />
 GitHub Pages
-[Simple Task Manager] ()
+[Simple Task Manager] (https://dcera-dev.github.io/SimpleTaskManager/)
