@@ -1,0 +1,28 @@
+.headerBacking {
+    background-color: rgb(160, 176, 192);
+    height: 8rem;
+    display: flex;
+}
+  
+.headerBacking h1 {
+    text-align: right;
+    margin-left: auto;
+    margin-top: auto;
+    padding-right: 2rem;
+}
+
+.zero {
+    text-shadow: none;
+}
+
+.none {
+    text-shadow: 1px 1px red;
+}
+
+.some {
+    text-shadow: 1px 1px yellow;
+}
+
+.all {
+    text-shadow: 1px 1px green;
+}

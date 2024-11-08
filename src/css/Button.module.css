@@ -1,0 +1,32 @@
+.container {
+    margin: 1vh 1vw;
+}
+
+.Button {
+    height: 3vh;
+    width: 3vw;
+    min-height: 30px;
+    min-height: 30px;
+    background-color: #95a2ad;
+    border: 1px solid #4e5a65;
+    border-radius: 50%;
+    box-shadow: 0 4px #4e5a65;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.Button:hover {
+    background-color: #a8b9c9;
+    cursor: pointer;
+}
+
+.Button:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px #4e5a65;
+}
+
+.image {
+    max-height: 100%;
+    max-width: 100%;
+}

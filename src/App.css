@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  width: 40%;
+  height: 100%;
+  margin: auto;
+  background-color: slategrey;
+}
+
+button {
+  border-radius: 1rem;
+}
+
